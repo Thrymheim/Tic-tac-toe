@@ -20,4 +20,11 @@ To play the game, simply clone this repository and run the code in an environmen
 2. The first player to get three of their symbols in a row (horizontally, vertically, or diagonally) wins the game.
 3. If all squares are filled without a winner, the game ends in a draw.
 
+## Contact Information
+
+For any questions or concerns regarding the course, please reach out to:
+
+- **Instructor:** [Maziyar kolagar]
+- **Email:** [maziyarkolagar@gmail.com]
+  
 Feel free to explore the code, suggest improvements, or contribute to its development. Happy playing!
